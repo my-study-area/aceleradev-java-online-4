@@ -5,8 +5,8 @@ class CesarCipher
         sentence.each_char do |char|
             charcode = char.ord + rotation
             case charcode
-            when 96..122 then encripted_sentence << (charcode).chr
-            when 122..148 then encripted_sentence << (charcode -26).chr
+            when 97..122 then encripted_sentence << (charcode).chr
+            when 123..148 then encripted_sentence << (charcode -26).chr
             else encripted_sentence << char
             end
         end
