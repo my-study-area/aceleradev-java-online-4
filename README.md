@@ -9,3 +9,33 @@ Desafio de inscrição para o AceleraDev do Codenation
 <a href="https://github.com/EliasGcf/readme-template/commits/master">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/my-study-area/aceleradev-java-online-4">
 </a>
+
+## Sobre o projeto
+Aplicação de linha de comando para realizar o desafio de criptografia do Aceleradev Java Online da Codenation.
+
+O desafio resolve a criptografia de Júlio César acessando uma api para ter acesso a mensagem criptografada. Localmente é realizada a descriptografia da frase e resumo criptografado usando sha1 num arquivo json que é enviado via POST para receber a sua nota.
+
+## Tecnologias
+- rest-client
+- rspec
+- rickshaw
+
+## Começando
+- clone o projeto:
+```sh
+git clone https://github.com/my-study-area/aceleradev-java-online-4.git 
+```
+- entre no repositório:
+```sh
+cd aceleradev-java-online-4
+```
+- execute o aplicação:
+```sh
+ruby app.rb
+```
+
+### Requisitos
+- ruby 2.5.1p57
+
+## Autor
+Adriano Avelino
