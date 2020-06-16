@@ -3,7 +3,8 @@ Desafio de inscrição para o AceleraDev do Codenation
 
 ![Imagem da aplicação de linha de comando](img/app.jpg)
 
- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/my-study-area/aceleradev-java-online-4">
+<p>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/my-study-area/aceleradev-java-online-4">
 <a href="https://github.com/adrianoavelino">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-adriano%20avelino-gree">
 </a>
@@ -11,6 +12,7 @@ Desafio de inscrição para o AceleraDev do Codenation
 <a href="https://github.com/EliasGcf/readme-template/commits/master">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/my-study-area/aceleradev-java-online-4">
 </a>
+</p>
 
 ## Sobre o projeto
 Aplicação de linha de comando para realizar o desafio de criptografia do Aceleradev Java Online da Codenation.
