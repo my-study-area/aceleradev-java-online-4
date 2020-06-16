@@ -1,5 +1,7 @@
 # aceleradev-java-online-4
-Desafio de inscrição para o AceleraDev do Codenation
+Desafio de inscrição para o AceleraDev do Codenation    
+
+![Imagem da aplicação de linha de comando](img/app.jpg)
 
  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/my-study-area/aceleradev-java-online-4">
 <a href="https://github.com/adrianoavelino">
