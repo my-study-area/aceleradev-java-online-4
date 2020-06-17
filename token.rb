@@ -46,6 +46,8 @@ class Token
             )
         rescue RestClient::TooManyRequests => e
             response = e.response
+        rescue RestClient::Forbidden => e
+            response = e.response
         end
         response
     end

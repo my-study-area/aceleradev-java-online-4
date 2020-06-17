@@ -58,12 +58,14 @@ def show_send_test
 
         if(JSON.parse(json)['code'] == '429')
             puts "Você fez muitas requisições, aguarde alguns minutos"
+        elsif JSON.parse(json)['code'] == '403'
+            puts "Acesso proibido, o período de envio está encerrado" 
+            puts "ou você não é um cadidato válido para o aceleradev"
         else
             score =  JSON.parse(json)['score']
             puts "Teste enviado com sucesso!"
             puts "Sua nota foi: " + score.to_s
         end
-
 
         puts "*".center(60,"*")
         File.write("log.txt", DateTime.now.strftime('%s'))
