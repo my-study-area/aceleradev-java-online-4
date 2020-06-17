@@ -1,14 +1,7 @@
 # aceleradev-java-online-4
 Desafio de inscrição para o AceleraDev do Codenation
 
-<style>
-  .box {
-    border: 10px solid rgba(255,255,255, 0.2);
-    border-radius: 5px;
-    margin-bottom: 30px;
-  }
-</style>
-<img src="img/cli.png" alt="Imagem da aplicação de linha de comando" class="box">
+![Imagem da aplicação de linha de comando](img/cli.png)
 
 <p>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/my-study-area/aceleradev-java-online-4">
