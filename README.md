@@ -1,7 +1,14 @@
 # aceleradev-java-online-4
-Desafio de inscrição para o AceleraDev do Codenation    
+Desafio de inscrição para o AceleraDev do Codenation
 
-![Imagem da aplicação de linha de comando](img/app.jpg)
+<style>
+  .box {
+    border: 10px solid rgba(255,255,255, 0.2);
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+</style>
+<img src="img/cli.png" alt="Imagem da aplicação de linha de comando" class="box">
 
 <p>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/my-study-area/aceleradev-java-online-4">
@@ -27,7 +34,7 @@ O desafio resolve a criptografia de Júlio César acessando uma api para ter ace
 ## Começando
 - clone o projeto:
 ```sh
-git clone https://github.com/my-study-area/aceleradev-java-online-4.git 
+git clone https://github.com/my-study-area/aceleradev-java-online-4.git
 ```
 - entre no repositório:
 ```sh
